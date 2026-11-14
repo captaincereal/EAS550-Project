@@ -1,0 +1,13 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+data/raw/*
+data/subset/*
+
+!data/raw/.gitkeep
+!data/subset/.gitkeep
+
+*.log
